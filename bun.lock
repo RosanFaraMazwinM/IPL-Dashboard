@@ -1046,33 +1046,33 @@
 
     "cssstyle": ["cssstyle@2.3.0", "https://s3.ap-south-1.amazonaws.com/new-assets.ccbp.in/frontend/loading-data/npm-mirror/cssstyle/-/cssstyle-2.3.0.tgz", { "dependencies": { "cssom": "~0.3.6" } }, "sha512-AZL67abkUzIuvcHqk7c09cezpGNcxUxU4Ioi/05xHk4DQeTkWmGYftIE6ctU6AEt+Gn4n1lDStOtj7FKycP71A=="],
 
-    "csstype": ["csstype@3.2.4", "https://s3.ap-south-1.amazonaws.com/new-assets.ccbp.in/frontend/loading-data/npm-mirror/csstype/-/csstype-3.2.4.tgz", {}, "sha512-PoKaoPzQapnEoqUSnHx1u6W6ku8CVEgKsnpmmzU3m1nwkidpPBQ8V/Zq2+bWNrsOKoKLwTGdbx6xF7BXP1zLVQ=="],
+    "csstype": ["csstype@3.2.4", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/csstype/-/csstype-3.2.4.tgz", {}, "sha512-PoKaoPzQapnEoqUSnHx1u6W6ku8CVEgKsnpmmzU3m1nwkidpPBQ8V/Zq2+bWNrsOKoKLwTGdbx6xF7BXP1zLVQ=="],
 
     "cyclist": ["cyclist@1.0.2", "https://s3.ap-south-1.amazonaws.com/new-assets.ccbp.in/frontend/loading-data/npm-mirror/cyclist/-/cyclist-1.0.2.tgz", {}, "sha512-0sVXIohTfLqVIW3kb/0n6IiWF3Ifj5nm2XaSrLq2DI6fKIGa2fYAZdk917rUneaeLVpYfFcyXE2ft0fe3remsA=="],
 
     "d": ["d@1.0.2", "https://s3.ap-south-1.amazonaws.com/new-assets.ccbp.in/frontend/loading-data/npm-mirror/d/-/d-1.0.2.tgz", { "dependencies": { "es5-ext": "^0.10.64", "type": "^2.7.2" } }, "sha512-MOqHvMWF9/9MX6nza0KgvFH4HpMU0EF5uUDXqX/BtxtU8NfB0QzRtJ8Oe/6SuS4kbhyzVJwjd97EA4PKrzJ8bw=="],
 
-    "d3-array": ["d3-array@3.2.5", "https://s3.ap-south-1.amazonaws.com/new-assets.ccbp.in/frontend/loading-data/npm-mirror/d3-array/-/d3-array-3.2.5.tgz", { "dependencies": { "internmap": "1 - 2" } }, "sha512-Th8qGXoBalmWsstpkuhmBuTsBQIFqYOJtjlBvNVvBfJ8E3uYusBUwUR8HU20U0qKKQkgCvKyR1YjiozWadk5QA=="],
+    "d3-array": ["d3-array@3.2.5", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/d3-array/-/d3-array-3.2.5.tgz", { "dependencies": { "internmap": "1 - 2" } }, "sha512-Th8qGXoBalmWsstpkuhmBuTsBQIFqYOJtjlBvNVvBfJ8E3uYusBUwUR8HU20U0qKKQkgCvKyR1YjiozWadk5QA=="],
 
-    "d3-color": ["d3-color@3.1.1", "https://s3.ap-south-1.amazonaws.com/new-assets.ccbp.in/frontend/loading-data/npm-mirror/d3-color/-/d3-color-3.1.1.tgz", {}, "sha512-lfab8x0Bj0UO7SNsY8dZSbNIA6ipbkE3X0NG9nqjCu6CfCHZseuDnOSJY7hidKrjpP++i1M2qT+FlAdPKYRilA=="],
+    "d3-color": ["d3-color@3.1.1", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/d3-color/-/d3-color-3.1.1.tgz", {}, "sha512-lfab8x0Bj0UO7SNsY8dZSbNIA6ipbkE3X0NG9nqjCu6CfCHZseuDnOSJY7hidKrjpP++i1M2qT+FlAdPKYRilA=="],
 
-    "d3-ease": ["d3-ease@3.0.2", "https://s3.ap-south-1.amazonaws.com/new-assets.ccbp.in/frontend/loading-data/npm-mirror/d3-ease/-/d3-ease-3.0.2.tgz", {}, "sha512-B5znKqRmKROAN4oHWQ50W/qisVjA9GXh2WMsVKdFVp4DxWmcrOsweqgUOUVsv5th96kwaZlokU6SlV4J3gak1w=="],
+    "d3-ease": ["d3-ease@3.0.2", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/d3-ease/-/d3-ease-3.0.2.tgz", {}, "sha512-B5znKqRmKROAN4oHWQ50W/qisVjA9GXh2WMsVKdFVp4DxWmcrOsweqgUOUVsv5th96kwaZlokU6SlV4J3gak1w=="],
 
-    "d3-format": ["d3-format@3.1.3", "https://s3.ap-south-1.amazonaws.com/new-assets.ccbp.in/frontend/loading-data/npm-mirror/d3-format/-/d3-format-3.1.3.tgz", {}, "sha512-+F+/49swqmGuQJmSKnVMIDH/QkEFV5li9QRj0xm/KhyAUBv099O5PrvpQFxBp24PYph17Mnvt9mjKQV0ii0nMA=="],
+    "d3-format": ["d3-format@3.1.3", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/d3-format/-/d3-format-3.1.3.tgz", {}, "sha512-+F+/49swqmGuQJmSKnVMIDH/QkEFV5li9QRj0xm/KhyAUBv099O5PrvpQFxBp24PYph17Mnvt9mjKQV0ii0nMA=="],
 
-    "d3-interpolate": ["d3-interpolate@3.0.2", "https://s3.ap-south-1.amazonaws.com/new-assets.ccbp.in/frontend/loading-data/npm-mirror/d3-interpolate/-/d3-interpolate-3.0.2.tgz", { "dependencies": { "d3-color": "1 - 3" } }, "sha512-IRzGU62DtxhvsnSTWMQIdnoZ6gA+BCWwBon1EJI6SjoN595799b6z/QRBzXfFhE8iupUPp3042yBNo0STPqnzQ=="],
+    "d3-interpolate": ["d3-interpolate@3.0.2", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/d3-interpolate/-/d3-interpolate-3.0.2.tgz", { "dependencies": { "d3-color": "1 - 3" } }, "sha512-IRzGU62DtxhvsnSTWMQIdnoZ6gA+BCWwBon1EJI6SjoN595799b6z/QRBzXfFhE8iupUPp3042yBNo0STPqnzQ=="],
 
-    "d3-path": ["d3-path@3.1.1", "https://s3.ap-south-1.amazonaws.com/new-assets.ccbp.in/frontend/loading-data/npm-mirror/d3-path/-/d3-path-3.1.1.tgz", {}, "sha512-jsbgV8zIT38ReB9O7X7gcLndTQRONSqNNd+oGIaTBdUug4r5jFmp0N6RY9R5GWbdUDucn0qoTGyfjapT4tDhcg=="],
+    "d3-path": ["d3-path@3.1.1", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/d3-path/-/d3-path-3.1.1.tgz", {}, "sha512-jsbgV8zIT38ReB9O7X7gcLndTQRONSqNNd+oGIaTBdUug4r5jFmp0N6RY9R5GWbdUDucn0qoTGyfjapT4tDhcg=="],
 
-    "d3-scale": ["d3-scale@4.0.3", "https://s3.ap-south-1.amazonaws.com/new-assets.ccbp.in/frontend/loading-data/npm-mirror/d3-scale/-/d3-scale-4.0.3.tgz", { "dependencies": { "d3-array": "2.10.0 - 3", "d3-format": "1 - 3", "d3-interpolate": "1.2.0 - 3", "d3-time": "2.1.1 - 3", "d3-time-format": "2 - 4" } }, "sha512-66cWobCNzcMvlfoaDHCxuIv9TBUWG1BLOWdv9kHHFuCr1JdqAWPvTmsaEYDD5NRMyWZ5+7u0GqiCDfMXMqh3hg=="],
+    "d3-scale": ["d3-scale@4.0.3", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/d3-scale/-/d3-scale-4.0.3.tgz", { "dependencies": { "d3-array": "2.10.0 - 3", "d3-format": "1 - 3", "d3-interpolate": "1.2.0 - 3", "d3-time": "2.1.1 - 3", "d3-time-format": "2 - 4" } }, "sha512-66cWobCNzcMvlfoaDHCxuIv9TBUWG1BLOWdv9kHHFuCr1JdqAWPvTmsaEYDD5NRMyWZ5+7u0GqiCDfMXMqh3hg=="],
 
-    "d3-shape": ["d3-shape@3.2.1", "https://s3.ap-south-1.amazonaws.com/new-assets.ccbp.in/frontend/loading-data/npm-mirror/d3-shape/-/d3-shape-3.2.1.tgz", { "dependencies": { "d3-path": "^3.1.1" } }, "sha512-dm2o+lbKdzg9tY7GEag/dB9hcbodLfwkE/DkvqbELJXaMz0yKzWWhZqhbI7CKubukA7HnRyz0avdtvi7EPxPvw=="],
+    "d3-shape": ["d3-shape@3.2.1", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/d3-shape/-/d3-shape-3.2.1.tgz", { "dependencies": { "d3-path": "^3.1.1" } }, "sha512-dm2o+lbKdzg9tY7GEag/dB9hcbodLfwkE/DkvqbELJXaMz0yKzWWhZqhbI7CKubukA7HnRyz0avdtvi7EPxPvw=="],
 
-    "d3-time": ["d3-time@3.1.1", "https://s3.ap-south-1.amazonaws.com/new-assets.ccbp.in/frontend/loading-data/npm-mirror/d3-time/-/d3-time-3.1.1.tgz", { "dependencies": { "d3-array": "2 - 3" } }, "sha512-Ze7rjrhMzdeulh0/hjcfFj7XLAHOfowtEMfsoG6DU866HPynQNW7Wfen6hzXcqKTv8XzxvF6Hzr5XD6bMHr2ug=="],
+    "d3-time": ["d3-time@3.1.1", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/d3-time/-/d3-time-3.1.1.tgz", { "dependencies": { "d3-array": "2 - 3" } }, "sha512-Ze7rjrhMzdeulh0/hjcfFj7XLAHOfowtEMfsoG6DU866HPynQNW7Wfen6hzXcqKTv8XzxvF6Hzr5XD6bMHr2ug=="],
 
-    "d3-time-format": ["d3-time-format@4.1.1", "https://s3.ap-south-1.amazonaws.com/new-assets.ccbp.in/frontend/loading-data/npm-mirror/d3-time-format/-/d3-time-format-4.1.1.tgz", { "dependencies": { "d3-time": "1 - 3" } }, "sha512-22XaqjyCjpqgda20erhsOjGmC3vvYwTNYniKAd45W5UWLDF43moeOuV9qYpRqobIlsnK0UhnKZjUUJm3VgORUA=="],
+    "d3-time-format": ["d3-time-format@4.1.1", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/d3-time-format/-/d3-time-format-4.1.1.tgz", { "dependencies": { "d3-time": "1 - 3" } }, "sha512-22XaqjyCjpqgda20erhsOjGmC3vvYwTNYniKAd45W5UWLDF43moeOuV9qYpRqobIlsnK0UhnKZjUUJm3VgORUA=="],
 
-    "d3-timer": ["d3-timer@3.0.2", "https://s3.ap-south-1.amazonaws.com/new-assets.ccbp.in/frontend/loading-data/npm-mirror/d3-timer/-/d3-timer-3.0.2.tgz", {}, "sha512-1Il1aliroVSErrv5aulRBxAY+7+DnaoLIWGd1C6SsBTWDeobWiP/V69vwb8vT6abR1kKwaNe1196pmaQ1fK90A=="],
+    "d3-timer": ["d3-timer@3.0.2", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/d3-timer/-/d3-timer-3.0.2.tgz", {}, "sha512-1Il1aliroVSErrv5aulRBxAY+7+DnaoLIWGd1C6SsBTWDeobWiP/V69vwb8vT6abR1kKwaNe1196pmaQ1fK90A=="],
 
     "damerau-levenshtein": ["damerau-levenshtein@1.0.8", "https://s3.ap-south-1.amazonaws.com/new-assets.ccbp.in/frontend/loading-data/npm-mirror/damerau-levenshtein/-/damerau-levenshtein-1.0.8.tgz", {}, "sha512-sdQSFB7+llfUcQHUQO3+B8ERRj0Oa4w9POWMI/puGtuf7gFywGmkaLCElnudfTiKZV+NvHqL0ifzdrI8Ro7ESA=="],
 
