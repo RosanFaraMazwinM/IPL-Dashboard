@@ -1,55 +1,114 @@
-.bg-container {
-  background-image: url('https://assets.ccbp.in/frontend/react-js/ipl-dashboard-lg-bg.png');
-  height: 100%;
-  background-size: cover;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-}
-.logo-container {
-  display: flex;
-  flex-direction: row;
-  margin-top: 30px;
-}
-.logo {
-  width: 30px;
-  height: 50px;
-  margin-top: 30px;
-}
-.main-heading {
-  font-family: 'Bree Serif';
-  font-size: 30px;
-  color: #ffffff;
-  font-weight: bold;
-  margin-top: 30px;
-  margin-left: 10px;
+* {
+  box-sizing: border-box;
 }
 
-@media (max-width: 576px) {
-  .bg-container {
-    background-image: url('https://assets.ccbp.in/frontend/react-js/ipl-dashboard-sm-bg.png');
-    height: 100%;
-    background-size: cover;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
+html,
+body,
+#root {
+  min-height: 100%;
+  margin: 0;
+  background-color: #101d35;
+}
+
+.home-bg-container {
+  width: 100%;
+  min-height: 100vh;
+  padding: 30px 20px 50px;
+  background-color: #101d35;
+  background-image: linear-gradient(
+      to bottom,
+      rgba(15, 23, 42, 0.35),
+      rgba(15, 23, 42, 0.95)
+    ),
+    url('https://assets.ccbp.in/frontend/react-js/ipl-dashboard-lg-bg.png');
+  background-size: cover, cover;
+  background-position:
+    center top,
+    center top;
+  background-repeat: repeat-y, repeat-y;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.home-loader-container {
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #101d35;
+}
+
+.logo-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 20px 0 35px;
+  gap: 15px;
+}
+
+.logo {
+  width: 55px;
+  height: 65px;
+  object-fit: contain;
+}
+
+.main-heading {
+  font-family: 'Bree Serif';
+  font-size: 40px;
+  color: #ffffff;
+  font-weight: bold;
+  margin: 0;
+}
+
+.card-container {
+  width: 100%;
+  max-width: 1000px;
+  padding: 0;
+  margin: 0 auto;
+  list-style-type: none;
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 25px 35px;
+}
+
+@media screen and (max-width: 768px) {
+  .card-container {
+    gap: 20px;
   }
+
+  .main-heading {
+    font-size: 32px;
+  }
+}
+
+@media screen and (max-width: 576px) {
+  .home-bg-container {
+    background-image: linear-gradient(
+        to bottom,
+        rgba(15, 23, 42, 0.4),
+        rgba(15, 23, 42, 0.95)
+      ),
+      url('https://assets.ccbp.in/frontend/react-js/ipl-dashboard-sm-bg.png');
+    padding: 20px 12px 30px;
+  }
+
   .logo-container {
-    display: flex;
-    align-items: center;
-    justify-content: center;
+    margin: 15px 0 30px;
+    gap: 10px;
   }
 
   .logo {
     width: 40px;
-    margin-right: 10px;
+    height: 50px;
   }
 
   .main-heading {
-    color: #ffffff;
-    font-family: 'Bree Serif';
-    font-size: 22px;
+    font-size: 25px;
+  }
+
+  .card-container {
+    grid-template-columns: 1fr;
+    gap: 18px;
   }
 }

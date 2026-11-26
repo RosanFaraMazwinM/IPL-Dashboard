@@ -35,21 +35,21 @@ class Home extends Component {
 
     if (isLoading) {
       return (
-        <div testid="loader">
+        <div className="home-loader-container" testid="loader">
           <Loader type="Oval" height={50} width={50} />
         </div>
       )
     }
 
     return (
-      <div className="bg-container">
+      <div className="home-bg-container">
         <div className="logo-container">
           <img
             src="https://assets.ccbp.in/frontend/react-js/ipl-logo-img.png"
             alt="ipl logo"
             className="logo"
           />
-          <h1>IPL Dashboard</h1>
+          <h1 className="main-heading">IPL Dashboard</h1>
         </div>
 
         <ul className="card-container">
