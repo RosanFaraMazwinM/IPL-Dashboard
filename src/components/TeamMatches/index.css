@@ -1,0 +1,103 @@
+.bg-container {
+  background-image: linear-gradient(to bottom, #d91c1f, #a4261d, #0f172a);
+  height: 100vh;
+}
+.team-members {
+  margin-top: 30px;
+  height: 20%;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+.latest {
+  font-family: 'Roboto';
+  color: #ffffff;
+  margin-left: 20px;
+  font-size: 24px;
+  margin-top: 20px;
+}
+
+.team-banner {
+  width: 100%;
+  border-radius: 10px;
+}
+.matches-list {
+  display: flex;
+  flex-wrap: wrap;
+  margin-top: 20px;
+}
+.matches-grid {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  margin-top: 20px;
+}
+.bg-container {
+  min-height: 100vh;
+  padding: 20px;
+}
+
+/* TEAM COLORS */
+.RCB {
+  background: linear-gradient(#a4261d, #1e293b);
+}
+
+.MI {
+  background: linear-gradient(#13418b, #1e293b);
+}
+
+.CSK {
+  background: linear-gradient(#f7db00, #1e293b);
+}
+
+.KKR {
+  background: linear-gradient(#5755a7, #1e293b);
+}
+
+.SRH {
+  background: linear-gradient(#f26d22, #1e293b);
+}
+
+.RR {
+  background: linear-gradient(#da237b, #1e293b);
+}
+
+.DC {
+  background: linear-gradient(#4f5db0, #1e293b);
+}
+
+.KXP {
+  background: linear-gradient(#d91c1f, #1e293b);
+}
+
+.team-banner {
+  width: 100%;
+  border-radius: 10px;
+}
+
+.latest {
+  color: #ffffff;
+  font-family: 'Bree Serif';
+  margin-top: 20px;
+}
+
+/* GRID */
+.matches-grid {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  margin-top: 20px;
+}
+
+@media (max-width) {
+  /* Banner */
+  .team-banner {
+    width: 100%;
+    border-radius: 8px;
+  }
+
+  /* Latest text */
+  .latest {
+    font-size: 18px;
+    margin-top: 15px;
+  }
+}
